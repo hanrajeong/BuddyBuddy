@@ -115,7 +115,7 @@ class Dashboard2Widget extends StatelessWidget {
               ),
             ),
             Container(
-              height: 573,
+              height: 520,
               margin: EdgeInsets.only(top: 3),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.stretch,
